@@ -1,0 +1,8 @@
+# Specify filepatterns you want git to ignore.
+
+node_modules
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
